@@ -1,3 +1,10 @@
+Sebastián Eli Román Álvarez 
+Edwin Caleb Trejo Aguiñaga
+Brandon enrique Hernández Martínez 
+Gerardo Arias Magaña 
+Alexandre Almaraz Mayen 
+José Sebastián Colin Becerra
+
 Descripción
     Este programa simula el funcionamiento de un restaurante en el que hay 5 mesas y 3 camareros. Cada mesa representa un cliente que hace un pedido de comida, y los camareros son responsables de atender los pedidos, prepararlos y entregarlos a las mesas correspondientes. El programa utiliza multithreading para simular la concurrencia y mejorar la eficiencia en la atención de pedidos.
 
